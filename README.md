@@ -1,4 +1,4 @@
-# Invitation-to-Participate-in-Study
+# Invitation to Participate in Study "The Labour of Ethical AI"
 An invitation for qualified individuals to participate in my study
 
 This is an invitation to participate in a study titled “The Labour of Ethical AI”. My name is James Steinhoff and I am a postdoctoral fellow at the Institute of Communication, Culture, Information and Technology at the University of Toronto Mississauga.
@@ -23,4 +23,5 @@ CCT Building 3071
 3359 Mississauga Rd.
 Mississauga, ON
 L5L 1C6
-j.steinhoff@utoronto.ca
+
+Contact me at: j.steinhoff@utoronto.ca
